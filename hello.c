@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
-    printf("git");
+int main()
+{
+    printf("github");
     return 0;
 }
